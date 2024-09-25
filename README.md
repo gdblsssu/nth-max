@@ -20,10 +20,8 @@
 3. Соберите и запустите проект:
    - Откройте класс NthMaxApplication.
    - Нажмите Run.
-   - Откройте Swagger UI
-   ```bash
-   http://localhost:8080/swagger-ui.html
-   ```
+   Откройте Swagger UI по следующему адресу: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
+
    Тестовые данные находятся по пути:
    ```bash
    src/main/resources/excel/test1.xlsx
@@ -42,10 +40,8 @@
    ```bash
    docker run -p 8080:8080 nth-max-app
    ```
-4. Откройте Swagger UI
-   ```bash
-   http://localhost:8080/swagger-ui.html
-   ```
+4. Откройте Swagger UI по следующему адресу: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
+
 
    Тестовые данные находятся по пути:
    ```bash
