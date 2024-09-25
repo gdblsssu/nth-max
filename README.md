@@ -20,7 +20,7 @@
 3. Соберите и запустите проект:
    - Откройте класс NthMaxApplication.
    - Нажмите Run.
-   Откройте Swagger UI по следующему адресу: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
+   - Откройте Swagger UI по следующему адресу: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 
    Тестовые данные находятся по пути:
    ```bash
