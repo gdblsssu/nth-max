@@ -16,3 +16,12 @@
    ```bash
    git clone https://github.com/username/nth-max.git
    cd nth-max
+2. Откройте проект в IntelliJ IDEA.
+3. Соберите и запустите проект:
+   - Откройте класс NthMaxApplication.
+   - Нажмите Run.
+   - Откройте Swagger UI
+   ```bash
+   http://localhost:8081/swagger-ui.html
+
+
